@@ -1,4 +1,4 @@
-import 'package:fluter_yudui/form.dart';
+import 'package:fluter_yudui/page/form.dart';
 import 'package:flutter/material.dart';
 
 void main() {
